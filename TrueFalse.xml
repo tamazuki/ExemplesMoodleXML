@@ -1,0 +1,15 @@
+<question type="truefalse">
+	<name>
+		<text>Demo question à choix multiples</text>
+	</name>
+	<questiontext format="html">
+		<text>Quel est la bonne réponse ?</text>
+	</questiontext>
+ <answer fraction="100">
+    <text>true</text>
+    <feedback><text>Correct!</text></feedback>
+ </answer>
+ <answer fraction="0">
+    <text>false</text>
+    <feedback><text>Ooops!</text></feedback>
+ </answer>
