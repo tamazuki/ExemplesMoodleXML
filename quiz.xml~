@@ -20,5 +20,25 @@
 			<text>Second item de la seconde paire</text>
 		</answer>
 	</subquestion>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+	<answer fraction="100">
+		<text>Ceci est la bonne réponse</text>
+		<feedback>
+			<text>Bravo !</text>
+		</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Une mauvaise réponse</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Une autre mauvaise réponse</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>
+	</answer>
 	<shuffleanswers>true </shuffleanswers>
 </question>
